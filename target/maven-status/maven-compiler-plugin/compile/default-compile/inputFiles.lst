@@ -1,0 +1,7 @@
+/Users/roland-liedtke/Desktop/sj28961-pj/API/InterviewAPI/src/main/java/me/rolandliedtke/interviewapi/InterviewApiApplication.java
+/Users/roland-liedtke/Desktop/sj28961-pj/API/InterviewAPI/src/main/java/me/rolandliedtke/interviewapi/advice/CompanyAdvice.java
+/Users/roland-liedtke/Desktop/sj28961-pj/API/InterviewAPI/src/main/java/me/rolandliedtke/interviewapi/controller/CompanyController.java
+/Users/roland-liedtke/Desktop/sj28961-pj/API/InterviewAPI/src/main/java/me/rolandliedtke/interviewapi/exception/CompanyNotFoundException.java
+/Users/roland-liedtke/Desktop/sj28961-pj/API/InterviewAPI/src/main/java/me/rolandliedtke/interviewapi/model/Company.java
+/Users/roland-liedtke/Desktop/sj28961-pj/API/InterviewAPI/src/main/java/me/rolandliedtke/interviewapi/repository/CompanyRepository.java
+/Users/roland-liedtke/Desktop/sj28961-pj/API/InterviewAPI/src/main/java/me/rolandliedtke/interviewapi/service/CompanyService.java
